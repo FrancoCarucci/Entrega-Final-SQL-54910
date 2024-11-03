@@ -38,16 +38,16 @@ supervivencia de la organizacion a lo largo del tiempo
 
 
 <img
-src="https://github.com/FrancoCarucci/Entrega-Final-Franco-Carucci/blob/main/DER_Huellitas.png">
+src="https://github.com/FrancoCarucci/Entrega-Final-SQL-54910/blob/main/DER_Huellitas.png">
 
 
 ## Listado de tablas y descripcion
 <img
-src="https://github.com/FrancoCarucci/Entrega-Final-Franco-Carucci/blob/main/Esquema_huellitas.png">
+src="https://github.com/FrancoCarucci/Entrega-Final-SQL-54910/blob/main/Esquema_huellitas.png">
 
 ## Tabla de Datos
 <img
-src="https://github.com/FrancoCarucci/Entrega-Final-Franco-Carucci/blob/main/HUELLITAS_Tabla.png">
+src="https://github.com/FrancoCarucci/Entrega-Final-SQL-54910/blob/main/HUELLITAS_Tabla.png">
 
 ## Estructura e ingesta de datos
 * Se realiza principalmente por medio del archivo population.sql
